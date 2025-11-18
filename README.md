@@ -1,2 +1,2 @@
 Demo
-Git demo descripotion
+Git demo 
